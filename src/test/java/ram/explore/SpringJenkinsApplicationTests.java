@@ -11,7 +11,7 @@ class SpringJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
         System.out.println("Test Cases executing....");
-        System.out.("Check Jenkins test-02");
+        System.out.println("Check Jenkins test-02");
         assertEquals(true,true);
 	}
 
