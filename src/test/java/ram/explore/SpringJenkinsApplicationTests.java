@@ -13,5 +13,4 @@ class SpringJenkinsApplicationTests {
         System.out.println("Test Cases executing....");
         assertEquals(true,true);
 	}
-
 }
